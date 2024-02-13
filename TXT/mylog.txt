@@ -15,3 +15,4 @@ ZCZC W01 410 L11 Assignment #01
 ZCZC W01 10 L01 SCELE/Discord related
 ZCZC W01 40 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
 ZCZC W01 40 L03 GitHub and git related, including commit, push, pull
+ZCZC W01 25 L41 TXT/mylog.txt related.
