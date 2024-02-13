@@ -1,3 +1,3 @@
-[TXT/mylog.txt](https://github.com/MaulanaSeto/os241/edit/master/TXT/mylog.txt "TXT/mylog.txt")
+[Log](https://github.com/MaulanaSeto/os241/edit/master/TXT/mylog.txt "Log")
 [GitHub](https://github.com/MaulanaSeto/os241 "GitHub")
-[LINKS/](https://maulanaseto.github.io/os241/LINKS/ "LINKS/")
+[Links](https://maulanaseto.github.io/os241/LINKS/ "Links")
